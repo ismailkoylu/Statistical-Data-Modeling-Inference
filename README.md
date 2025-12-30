@@ -13,4 +13,4 @@ Bu çalışma, gerçek dünya veri setleri üzerinde istatistiksel yöntemler ku
 * Matplotlib
 
 ## Nasıl Çalıştırılır?
-`YZV 211E Homework 2.ipynb` dosyasını Jupyter Notebook üzerinde çalıştırarak analiz adımlarını takip edebilirsiniz.
+`Statistical_Inference_and_Probability_Modeling.ipynb` dosyasını Jupyter Notebook üzerinde çalıştırarak analiz adımlarını takip edebilirsiniz.
